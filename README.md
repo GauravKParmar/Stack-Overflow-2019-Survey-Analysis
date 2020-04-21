@@ -1,4 +1,4 @@
-# Stack-Overflow-2019-Survey-Analysis
+# Stack Overflow 2019 Survey Analysis
 
 ### Analysis of the Stack Overflow Developer Survey Results
 
