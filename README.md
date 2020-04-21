@@ -6,9 +6,9 @@ I decided to analyze the annual data from the public Stack Overflow Developer Su
 
 ### Here are a few questions to the 2019 database I prompted:
 
-Question 1: What are the top 10 popular programming languages?
-Question 2: What is the amount of job satisfaction among the respondents who are working full time?
-Question 3: Which country has the highest number of respondents in the survey?
+- Question 1: What are the top 10 popular programming languages?
+- Question 2: What is the amount of job satisfaction among the respondents who are working full time?
+- Question 3: Which country has the highest number of respondents in the survey?
 
 ### Blog post detailing results for public: As a Udacity student, I created a blog post in response to my findings:
 
